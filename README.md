@@ -98,3 +98,4 @@ Part 4: ค่าไฟแพงขึ้นหรือถูกลงเมื
 
 ## Part 4: ค่าไฟแพงขึ้นหรือถูกลงเมื่อเทียบกับอุณหภูมิ
 
+![6](https://github.com/kkengg/Pikachu-Project/assets/136548931/12bc2a0b-fc10-49a3-a7b7-9b2944d880bf)
