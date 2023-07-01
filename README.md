@@ -121,6 +121,7 @@ Part 4: ค่าไฟแพงขึ้นหรือถูกลงเมื
 ## สรุป
 
 แหล่งอ้างอิง:
+
 http://statbbi.nso.go.th/staticreport/page/sector/th/13.aspx
 https://www.energy.go.th/th
 https://www.mea.or.th/
