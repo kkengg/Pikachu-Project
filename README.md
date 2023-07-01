@@ -103,8 +103,10 @@ Part 4: ค่าไฟแพงขึ้นหรือถูกลงเมื
 
 ![6](https://github.com/kkengg/Pikachu-Project/assets/136548931/1886b431-9429-4283-8940-1c2ec2883b98)
 
+## สรุป
 
-![ดาวน์โหลด (1)](https://github.com/kkengg/Pikachu-Project/assets/123485982/a3799bfe-eb00-4043-b704-973d6b6e97f5)
-![ดาวน์โหลด (3)](https://github.com/kkengg/Pikachu-Project/assets/123485982/50c84a2e-4984-4f26-b9ac-1e5e8cc49461)
-![ดาวน์โหลด (2)](https://github.com/kkengg/Pikachu-Project/assets/123485982/e13fe462-9f8f-4418-af2e-16c59b31b86a)
-
+แหล่งอ้างอิง:
+http://statbbi.nso.go.th/staticreport/page/sector/th/13.aspx
+https://www.energy.go.th/th
+https://www.mea.or.th/
+https://www.pea.co.th/
