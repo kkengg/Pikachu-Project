@@ -172,3 +172,5 @@ https://www.energy.go.th/th
 https://www.mea.or.th/
 
 https://www.pea.co.th/
+
+https://www.eppo.go.th/index.php/th/electricity
