@@ -98,7 +98,7 @@ Part 4: ค่าไฟแพงขึ้นหรือถูกลงเมื
 
 ## Part 4: ค่าไฟแพงขึ้นหรือถูกลงเมื่อเทียบกับอุณหภูมิ
 
-![6](https://github.com/kkengg/Pikachu-Project/assets/136548931/12bc2a0b-fc10-49a3-a7b7-9b2944d880bf)
+![6](https://github.com/kkengg/Pikachu-Project/assets/136548931/1886b431-9429-4283-8940-1c2ec2883b98)
 
 
 ![ดาวน์โหลด (1)](https://github.com/kkengg/Pikachu-Project/assets/123485982/a3799bfe-eb00-4043-b704-973d6b6e97f5)
