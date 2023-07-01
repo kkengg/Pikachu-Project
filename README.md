@@ -13,6 +13,7 @@ Part 4: ค่าไฟแพงขึ้นหรือถูกลงเมื
 ค่าไฟแพงเกิดจากหลายองค์ประกอบโดย ส่วนแรกเกิดจากต้นทุนไฟฟ้าโดยไฟฟ้าส่วนใหญ่ที่ใช้ในประเทศไทยซื้อจากภาคเอกชนและมีการนำเข้าจากต่างประเทศ จากนั้นการไฟฟ้านครหลวงและการไฟฟ้าส่วนภูมิภาคจำหน่ายไฟฟ้าแก่ผู้บริโภคทุกภาคส่วนตามแผนภาพ
 
 ![ElectricityIndustry](https://github.com/kkengg/Pikachu-Project/assets/136548931/4ca03b5d-0bd7-4072-85fa-2849d7313f99)
+Ref:https://www.egat.co.th
 
 จากใบแจ้งค่าไฟฟ้าในแต่ละเดือนมีองค์ประกอบหลักคือ
 1.	ค่าพลังงานไฟฟ้า
@@ -163,8 +164,10 @@ http://statbbi.nso.go.th/staticreport/page/sector/th/13.aspx
 
 https://www.energy.go.th/th
 
-https://www.mea.or.th/
+https://www.mea.or.th
 
-https://www.pea.co.th/
+https://www.pea.co.th
+
+https://www.egat.co.th
 
 https://www.eppo.go.th/index.php/th/electricity
