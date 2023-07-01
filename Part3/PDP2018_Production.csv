@@ -1,0 +1,561 @@
+﻿Year,Type of energy,Fuel Type,Producer,ProducerM,MW,Percent
+2561,Diesel,Diesel,VSPP/ พพ./ PEA/ อื่นๆ,VSPP,30,0.062497396
+2562,Diesel,Diesel,VSPP/ พพ./ PEA/ อื่นๆ,VSPP,30,0.058902065
+2563,Diesel,Diesel,VSPP/ พพ./ PEA/ อื่นๆ,VSPP,30,0.058373708
+2564,Diesel,Diesel,VSPP/ พพ./ PEA/ อื่นๆ,VSPP,30,0.056414307
+2565,Diesel,Diesel,VSPP/ พพ./ PEA/ อื่นๆ,VSPP,30,0.055116664
+2566,Diesel,Diesel,VSPP/ พพ./ PEA/ อื่นๆ,VSPP,30,0.054654764
+2567,Diesel,Diesel,VSPP/ พพ./ PEA/ อื่นๆ,VSPP,30,0.052969843
+2568,Diesel,Diesel,VSPP/ พพ./ PEA/ อื่นๆ,VSPP,30,0.055528819
+2569,Diesel,Diesel,VSPP/ พพ./ PEA/ อื่นๆ,VSPP,30,0.052838297
+2570,Diesel,Diesel,VSPP/ พพ./ PEA/ อื่นๆ,VSPP,30,0.052758384
+2571,Diesel,Diesel,VSPP/ พพ./ PEA/ อื่นๆ,VSPP,30,0.051540193
+2572,Diesel,Diesel,VSPP/ พพ./ PEA/ อื่นๆ,VSPP,30,0.049764448
+2573,Diesel,Diesel,VSPP/ พพ./ PEA/ อื่นๆ,VSPP,30,0.04795933
+2574,Diesel,Diesel,VSPP/ พพ./ PEA/ อื่นๆ,VSPP,30,0.045968558
+2575,Diesel,Diesel,VSPP/ พพ./ PEA/ อื่นๆ,VSPP,30,0.044646843
+2576,Diesel,Diesel,VSPP/ พพ./ PEA/ อื่นๆ,VSPP,30,0.042731999
+2577,Diesel,Diesel,VSPP/ พพ./ PEA/ อื่นๆ,VSPP,30,0.04192169
+2578,Diesel,Diesel,VSPP/ พพ./ PEA/ อื่นๆ,VSPP,30,0.040549308
+2579,Diesel,Diesel,VSPP/ พพ./ PEA/ อื่นๆ,VSPP,30,0.039249035
+2580,Diesel,Diesel,VSPP/ พพ./ PEA/ อื่นๆ,VSPP,30,0.038854567
+2561,Diesel,Diesel,กฟผ.,EGAT,30,0.062497396
+2562,Diesel,Diesel,กฟผ.,EGAT,30,0.058902065
+2563,Diesel,Diesel,กฟผ.,EGAT,30,0.058373708
+2564,Diesel,Diesel,กฟผ.,EGAT,30,0.056414307
+2565,Diesel,Diesel,กฟผ.,EGAT,30,0.055116664
+2566,Diesel,Diesel,กฟผ.,EGAT,30,0.054654764
+2567,Diesel,Diesel,กฟผ.,EGAT,30,0.052969843
+2568,Diesel,Diesel,กฟผ.,EGAT,30,0.055528819
+2569,Diesel,Diesel,กฟผ.,EGAT,30,0.052838297
+2570,Diesel,Diesel,กฟผ.,EGAT,30,0.052758384
+2571,Diesel,Diesel,กฟผ.,EGAT,30,0.051540193
+2572,Diesel,Diesel,กฟผ.,EGAT,30,0.049764448
+2573,Diesel,Diesel,กฟผ.,EGAT,30,0.04795933
+2574,Diesel,Diesel,กฟผ.,EGAT,30,0.045968558
+2575,Diesel,Diesel,กฟผ.,EGAT,30,0.044646843
+2576,Diesel,Diesel,กฟผ.,EGAT,30,0.042731999
+2577,Diesel,Diesel,กฟผ.,EGAT,30,0.04192169
+2578,Diesel,Diesel,กฟผ.,EGAT,30,0.040549308
+2579,Diesel,Diesel,กฟผ.,EGAT,30,0.039249035
+2580,Diesel,Diesel,กฟผ.,EGAT,30,0.038854567
+2561,Heat Energy,Gas/Fuel Oil,IPP,IPP,1440,2.999875005
+2562,Heat Energy,Gas/Fuel Oil,IPP,IPP,1440,2.827299144
+2563,Heat Energy,Gas/Fuel Oil,IPP,IPP,1440,2.801938007
+2564,Heat Energy,Gas/Fuel Oil,IPP,IPP,1440,2.70788672
+2565,Heat Energy,Gas/Fuel Oil,IPP,IPP,1440,2.645599853
+2566,Heat Energy,Gas/Fuel Oil,IPP,IPP,1440,2.623428676
+2567,Heat Energy,Gas/Fuel Oil,IPP,IPP,1440,2.54255244
+2568,Heat Energy,Gas/Fuel Oil,IPP,IPP,0,0
+2569,Heat Energy,Gas/Fuel Oil,IPP,IPP,0,0
+2570,Heat Energy,Gas/Fuel Oil,IPP,IPP,0,0
+2571,Heat Energy,Gas/Fuel Oil,IPP,IPP,0,0
+2572,Heat Energy,Gas/Fuel Oil,IPP,IPP,0,0
+2573,Heat Energy,Gas/Fuel Oil,IPP,IPP,0,0
+2574,Heat Energy,Gas/Fuel Oil,IPP,IPP,0,0
+2575,Heat Energy,Gas/Fuel Oil,IPP,IPP,0,0
+2576,Heat Energy,Gas/Fuel Oil,IPP,IPP,0,0
+2577,Heat Energy,Gas/Fuel Oil,IPP,IPP,0,0
+2578,Heat Energy,Gas/Fuel Oil,IPP,IPP,0,0
+2579,Heat Energy,Gas/Fuel Oil,IPP,IPP,0,0
+2580,Heat Energy,Gas/Fuel Oil,IPP,IPP,0,0
+2561,Heat Energy,Gas/Fuel Oil,กฟผ.,EGAT,1152,2.399900004
+2562,Heat Energy,Gas/Fuel Oil,กฟผ.,EGAT,1152,2.261839315
+2563,Heat Energy,Gas/Fuel Oil,กฟผ.,EGAT,1152,2.241550406
+2564,Heat Energy,Gas/Fuel Oil,กฟผ.,EGAT,1152,2.166309376
+2565,Heat Energy,Gas/Fuel Oil,กฟผ.,EGAT,1152,2.116479882
+2566,Heat Energy,Gas/Fuel Oil,กฟผ.,EGAT,1152,2.09874294
+2567,Heat Energy,Gas/Fuel Oil,กฟผ.,EGAT,1152,2.034041952
+2568,Heat Energy,Gas/Fuel Oil,กฟผ.,EGAT,1152,2.132306667
+2569,Heat Energy,Gas/Fuel Oil,กฟผ.,EGAT,1152,2.028990612
+2570,Heat Energy,Gas/Fuel Oil,กฟผ.,EGAT,576,1.012960976
+2571,Heat Energy,Gas/Fuel Oil,กฟผ.,EGAT,0,0
+2572,Heat Energy,Gas/Fuel Oil,กฟผ.,EGAT,0,0
+2573,Heat Energy,Gas/Fuel Oil,กฟผ.,EGAT,0,0
+2574,Heat Energy,Gas/Fuel Oil,กฟผ.,EGAT,0,0
+2575,Heat Energy,Gas/Fuel Oil,กฟผ.,EGAT,0,0
+2576,Heat Energy,Gas/Fuel Oil,กฟผ.,EGAT,0,0
+2577,Heat Energy,Gas/Fuel Oil,กฟผ.,EGAT,0,0
+2578,Heat Energy,Gas/Fuel Oil,กฟผ.,EGAT,0,0
+2579,Heat Energy,Gas/Fuel Oil,กฟผ.,EGAT,0,0
+2580,Heat Energy,Gas/Fuel Oil,กฟผ.,EGAT,0,0
+2561,Heat Energy,Coal,IPP,IPP,2007,4.181075789
+2562,Heat Energy,Coal,IPP,IPP,2007,3.940548182
+2563,Heat Energy,Coal,IPP,IPP,2007,3.905201097
+2564,Heat Energy,Coal,IPP,IPP,2007,3.774117116
+2565,Heat Energy,Coal,IPP,IPP,2007,3.687304795
+2566,Heat Energy,Coal,IPP,IPP,2007,3.656403717
+2567,Heat Energy,Coal,IPP,IPP,2007,3.543682463
+2568,Heat Energy,Coal,IPP,IPP,2007,3.714878022
+2569,Heat Energy,Coal,IPP,IPP,2277,4.010426757
+2570,Heat Energy,Coal,IPP,IPP,2547,4.479186817
+2571,Heat Energy,Coal,IPP,IPP,2547,4.375762365
+2572,Heat Energy,Coal,IPP,IPP,2547,4.225001659
+2573,Heat Energy,Coal,IPP,IPP,2547,4.071747158
+2574,Heat Energy,Coal,IPP,IPP,2547,3.902730532
+2575,Heat Energy,Coal,IPP,IPP,1200,1.785873739
+2576,Heat Energy,Coal,IPP,IPP,1200,1.709279966
+2577,Heat Energy,Coal,IPP,IPP,1200,1.676867611
+2578,Heat Energy,Coal,IPP,IPP,1200,1.621972318
+2579,Heat Energy,Coal,IPP,IPP,1200,1.569961405
+2580,Heat Energy,Coal,IPP,IPP,540,0.699382212
+2561,Heat Energy,Coal,โรงไฟฟ้าใหม่/ทดแทน,Renewable Energy,0,0
+2562,Heat Energy,Coal,โรงไฟฟ้าใหม่/ทดแทน,Renewable Energy,0,0
+2563,Heat Energy,Coal,โรงไฟฟ้าใหม่/ทดแทน,Renewable Energy,0,0
+2564,Heat Energy,Coal,โรงไฟฟ้าใหม่/ทดแทน,Renewable Energy,0,0
+2565,Heat Energy,Coal,โรงไฟฟ้าใหม่/ทดแทน,Renewable Energy,0,0
+2566,Heat Energy,Coal,โรงไฟฟ้าใหม่/ทดแทน,Renewable Energy,0,0
+2567,Heat Energy,Coal,โรงไฟฟ้าใหม่/ทดแทน,Renewable Energy,0,0
+2568,Heat Energy,Coal,โรงไฟฟ้าใหม่/ทดแทน,Renewable Energy,0,0
+2569,Heat Energy,Coal,โรงไฟฟ้าใหม่/ทดแทน,Renewable Energy,0,0
+2570,Heat Energy,Coal,โรงไฟฟ้าใหม่/ทดแทน,Renewable Energy,0,0
+2571,Heat Energy,Coal,โรงไฟฟ้าใหม่/ทดแทน,Renewable Energy,0,0
+2572,Heat Energy,Coal,โรงไฟฟ้าใหม่/ทดแทน,Renewable Energy,0,0
+2573,Heat Energy,Coal,โรงไฟฟ้าใหม่/ทดแทน,Renewable Energy,0,0
+2574,Heat Energy,Coal,โรงไฟฟ้าใหม่/ทดแทน,Renewable Energy,0,0
+2575,Heat Energy,Coal,โรงไฟฟ้าใหม่/ทดแทน,Renewable Energy,0,0
+2576,Heat Energy,Coal,โรงไฟฟ้าใหม่/ทดแทน,Renewable Energy,1000,1.424399972
+2577,Heat Energy,Coal,โรงไฟฟ้าใหม่/ทดแทน,Renewable Energy,2000,2.794779352
+2578,Heat Energy,Coal,โรงไฟฟ้าใหม่/ทดแทน,Renewable Energy,2000,2.703287197
+2579,Heat Energy,Coal,โรงไฟฟ้าใหม่/ทดแทน,Renewable Energy,2000,2.616602342
+2580,Heat Energy,Coal,โรงไฟฟ้าใหม่/ทดแทน,Renewable Energy,2000,2.59030449
+2561,Heat Energy,Fuel Oil,กฟผ.,EGAT,315,0.656222657
+2562,Heat Energy,Fuel Oil,กฟผ.,EGAT,315,0.618471688
+2563,Heat Energy,Fuel Oil,กฟผ.,EGAT,315,0.612923939
+2564,Heat Energy,Fuel Oil,กฟผ.,EGAT,315,0.59235022
+2565,Heat Energy,Fuel Oil,กฟผ.,EGAT,315,0.578724968
+2566,Heat Energy,Fuel Oil,กฟผ.,EGAT,315,0.573875023
+2567,Heat Energy,Fuel Oil,กฟผ.,EGAT,315,0.556183346
+2568,Heat Energy,Fuel Oil,กฟผ.,EGAT,315,0.583052604
+2569,Heat Energy,Fuel Oil,กฟผ.,EGAT,315,0.554802121
+2570,Heat Energy,Fuel Oil,กฟผ.,EGAT,315,0.553963034
+2571,Heat Energy,Fuel Oil,กฟผ.,EGAT,315,0.541172024
+2572,Heat Energy,Fuel Oil,กฟผ.,EGAT,315,0.522526707
+2573,Heat Energy,Fuel Oil,กฟผ.,EGAT,315,0.50357297
+2574,Heat Energy,Fuel Oil,กฟผ.,EGAT,315,0.482669854
+2575,Heat Energy,Fuel Oil,กฟผ.,EGAT,315,0.468791856
+2576,Heat Energy,Fuel Oil,กฟผ.,EGAT,315,0.448685991
+2577,Heat Energy,Fuel Oil,กฟผ.,EGAT,0,0
+2578,Heat Energy,Fuel Oil,กฟผ.,EGAT,0,0
+2579,Heat Energy,Fuel Oil,กฟผ.,EGAT,0,0
+2580,Heat Energy,Fuel Oil,กฟผ.,EGAT,0,0
+2561,Heat Energy,Lignite,กฟผ.,EGAT,2220,4.6248073
+2562,Heat Energy,Lignite,กฟผ.,EGAT,2220,4.358752847
+2563,Heat Energy,Lignite,กฟผ.,EGAT,2220,4.319654428
+2564,Heat Energy,Lignite,กฟผ.,EGAT,2220,4.174658693
+2565,Heat Energy,Lignite,กฟผ.,EGAT,1680,3.086533162
+2566,Heat Energy,Lignite,กฟผ.,EGAT,1680,3.060666788
+2567,Heat Energy,Lignite,กฟผ.,EGAT,1680,2.96631118
+2568,Heat Energy,Lignite,กฟผ.,EGAT,600,1.110576389
+2569,Heat Energy,Lignite,กฟผ.,EGAT,1200,2.113531888
+2570,Heat Energy,Lignite,กฟผ.,EGAT,1200,2.110335367
+2571,Heat Energy,Lignite,กฟผ.,EGAT,1200,2.06160771
+2572,Heat Energy,Lignite,กฟผ.,EGAT,1200,1.990577931
+2573,Heat Energy,Lignite,กฟผ.,EGAT,1200,1.91837322
+2574,Heat Energy,Lignite,กฟผ.,EGAT,1200,1.8387423
+2575,Heat Energy,Lignite,กฟผ.,EGAT,1200,1.785873739
+2576,Heat Energy,Lignite,กฟผ.,EGAT,1200,1.709279966
+2577,Heat Energy,Lignite,กฟผ.,EGAT,1200,1.676867611
+2578,Heat Energy,Lignite,กฟผ.,EGAT,1200,1.621972318
+2579,Heat Energy,Lignite,กฟผ.,EGAT,1200,1.569961405
+2580,Heat Energy,Lignite,กฟผ.,EGAT,1200,1.554182694
+2561,Heat Energy,Lignite,สปป. ลาว,IMPORT,1473,3.068622141
+2562,Heat Energy,Lignite,สปป. ลาว,IMPORT,1473,2.892091416
+2563,Heat Energy,Lignite,สปป. ลาว,IMPORT,1473,2.866149086
+2564,Heat Energy,Lignite,สปป. ลาว,IMPORT,1473,2.769942457
+2565,Heat Energy,Lignite,สปป. ลาว,IMPORT,1473,2.706228183
+2566,Heat Energy,Lignite,สปป. ลาว,IMPORT,1473,2.683548916
+2567,Heat Energy,Lignite,สปป. ลาว,IMPORT,1473,2.600819267
+2568,Heat Energy,Lignite,สปป. ลาว,IMPORT,1473,2.726465035
+2569,Heat Energy,Lignite,สปป. ลาว,IMPORT,1473,2.594360392
+2570,Heat Energy,Lignite,สปป. ลาว,IMPORT,1473,2.590436664
+2571,Heat Energy,Lignite,สปป. ลาว,IMPORT,1473,2.530623465
+2572,Heat Energy,Lignite,สปป. ลาว,IMPORT,1473,2.44343441
+2573,Heat Energy,Lignite,สปป. ลาว,IMPORT,1473,2.354803127
+2574,Heat Energy,Lignite,สปป. ลาว,IMPORT,1473,2.257056174
+2575,Heat Energy,Lignite,สปป. ลาว,IMPORT,1473,2.192160014
+2576,Heat Energy,Lignite,สปป. ลาว,IMPORT,1473,2.098141158
+2577,Heat Energy,Lignite,สปป. ลาว,IMPORT,1473,2.058354993
+2578,Heat Energy,Lignite,สปป. ลาว,IMPORT,1473,1.990971021
+2579,Heat Energy,Lignite,สปป. ลาว,IMPORT,1473,1.927127625
+2580,Heat Energy,Lignite,สปป. ลาว,IMPORT,1473,1.907759257
+2561,Combined-Cycle Power Plant,Combined-Cycle Power Plant,IPP,IPP,11502,23.9615016
+2562,Combined-Cycle Power Plant,Combined-Cycle Power Plant,IPP,IPP,11502,22.58305191
+2563,Combined-Cycle Power Plant,Combined-Cycle Power Plant,IPP,IPP,10802,21.01842663
+2564,Combined-Cycle Power Plant,Combined-Cycle Power Plant,IPP,IPP,12052,22.66350747
+2565,Combined-Cycle Power Plant,Combined-Cycle Power Plant,IPP,IPP,13302,24.43872864
+2566,Combined-Cycle Power Plant,Combined-Cycle Power Plant,IPP,IPP,14202,25.87356531
+2567,Combined-Cycle Power Plant,Combined-Cycle Power Plant,IPP,IPP,15452,27.28300021
+2568,Combined-Cycle Power Plant,Combined-Cycle Power Plant,IPP,IPP,14752,27.30537149
+2569,Combined-Cycle Power Plant,Combined-Cycle Power Plant,IPP,IPP,14752,25.98235201
+2570,Combined-Cycle Power Plant,Combined-Cycle Power Plant,IPP,IPP,12711,22.35372738
+2571,Combined-Cycle Power Plant,Combined-Cycle Power Plant,IPP,IPP,11998,20.61264109
+2572,Combined-Cycle Power Plant,Combined-Cycle Power Plant,IPP,IPP,11998,19.90246168
+2573,Combined-Cycle Power Plant,Combined-Cycle Power Plant,IPP,IPP,11998,19.18053491
+2574,Combined-Cycle Power Plant,Combined-Cycle Power Plant,IPP,IPP,11998,18.38435843
+2575,Combined-Cycle Power Plant,Combined-Cycle Power Plant,IPP,IPP,11264,16.76340149
+2576,Combined-Cycle Power Plant,Combined-Cycle Power Plant,IPP,IPP,9130,13.00477174
+2577,Combined-Cycle Power Plant,Combined-Cycle Power Plant,IPP,IPP,9130,12.75816774
+2578,Combined-Cycle Power Plant,Combined-Cycle Power Plant,IPP,IPP,9130,12.34050606
+2579,Combined-Cycle Power Plant,Combined-Cycle Power Plant,IPP,IPP,9130,11.94478969
+2580,Combined-Cycle Power Plant,Combined-Cycle Power Plant,IPP,IPP,9130,11.82474
+2561,Combined-Cycle Power Plant,Combined-Cycle Power Plant,กฟผ.,EGAT,8582,17.87842173
+2562,Combined-Cycle Power Plant,Combined-Cycle Power Plant,กฟผ.,EGAT,8578,16.84206393
+2563,Combined-Cycle Power Plant,Combined-Cycle Power Plant,กฟผ.,EGAT,9648,18.77298465
+2564,Combined-Cycle Power Plant,Combined-Cycle Power Plant,กฟผ.,EGAT,9648,18.14284102
+2565,Combined-Cycle Power Plant,Combined-Cycle Power Plant,กฟผ.,EGAT,9086,16.69300018
+2566,Combined-Cycle Power Plant,Combined-Cycle Power Plant,กฟผ.,EGAT,8400,15.30333394
+2567,Combined-Cycle Power Plant,Combined-Cycle Power Plant,กฟผ.,EGAT,8400,14.8315559
+2568,Combined-Cycle Power Plant,Combined-Cycle Power Plant,กฟผ.,EGAT,8400,15.54806945
+2569,Combined-Cycle Power Plant,Combined-Cycle Power Plant,กฟผ.,EGAT,9100,16.02761682
+2570,Combined-Cycle Power Plant,Combined-Cycle Power Plant,กฟผ.,EGAT,11200,19.69646343
+2571,Combined-Cycle Power Plant,Combined-Cycle Power Plant,กฟผ.,EGAT,11900,20.44427646
+2572,Combined-Cycle Power Plant,Combined-Cycle Power Plant,กฟผ.,EGAT,12600,20.90106828
+2573,Combined-Cycle Power Plant,Combined-Cycle Power Plant,กฟผ.,EGAT,12600,20.1429188
+2574,Combined-Cycle Power Plant,Combined-Cycle Power Plant,กฟผ.,EGAT,12600,19.30679415
+2575,Combined-Cycle Power Plant,Combined-Cycle Power Plant,กฟผ.,EGAT,12600,18.75167426
+2576,Combined-Cycle Power Plant,Combined-Cycle Power Plant,กฟผ.,EGAT,12600,17.94743964
+2577,Combined-Cycle Power Plant,Combined-Cycle Power Plant,กฟผ.,EGAT,11890,16.61496325
+2578,Combined-Cycle Power Plant,Combined-Cycle Power Plant,กฟผ.,EGAT,11170,15.097859
+2579,Combined-Cycle Power Plant,Combined-Cycle Power Plant,กฟผ.,EGAT,10500,13.73716229
+2580,Combined-Cycle Power Plant,Combined-Cycle Power Plant,กฟผ.,EGAT,10500,13.59909857
+2561,Combined-Cycle Power Plant,Combined-Cycle Power Plant,โรงไฟฟ้าใหม่/ทดแทน,Renewable Energy,0,0
+2562,Combined-Cycle Power Plant,Combined-Cycle Power Plant,โรงไฟฟ้าใหม่/ทดแทน,Renewable Energy,0,0
+2563,Combined-Cycle Power Plant,Combined-Cycle Power Plant,โรงไฟฟ้าใหม่/ทดแทน,Renewable Energy,0,0
+2564,Combined-Cycle Power Plant,Combined-Cycle Power Plant,โรงไฟฟ้าใหม่/ทดแทน,Renewable Energy,0,0
+2565,Combined-Cycle Power Plant,Combined-Cycle Power Plant,โรงไฟฟ้าใหม่/ทดแทน,Renewable Energy,0,0
+2566,Combined-Cycle Power Plant,Combined-Cycle Power Plant,โรงไฟฟ้าใหม่/ทดแทน,Renewable Energy,0,0
+2567,Combined-Cycle Power Plant,Combined-Cycle Power Plant,โรงไฟฟ้าใหม่/ทดแทน,Renewable Energy,700,1.235962992
+2568,Combined-Cycle Power Plant,Combined-Cycle Power Plant,โรงไฟฟ้าใหม่/ทดแทน,Renewable Energy,1400,2.591344908
+2569,Combined-Cycle Power Plant,Combined-Cycle Power Plant,โรงไฟฟ้าใหม่/ทดแทน,Renewable Energy,1400,2.465787203
+2570,Combined-Cycle Power Plant,Combined-Cycle Power Plant,โรงไฟฟ้าใหม่/ทดแทน,Renewable Energy,1400,2.462057929
+2571,Combined-Cycle Power Plant,Combined-Cycle Power Plant,โรงไฟฟ้าใหม่/ทดแทน,Renewable Energy,1400,2.405208995
+2572,Combined-Cycle Power Plant,Combined-Cycle Power Plant,โรงไฟฟ้าใหม่/ทดแทน,Renewable Energy,1400,2.32234092
+2573,Combined-Cycle Power Plant,Combined-Cycle Power Plant,โรงไฟฟ้าใหม่/ทดแทน,Renewable Energy,2100,3.357153134
+2574,Combined-Cycle Power Plant,Combined-Cycle Power Plant,โรงไฟฟ้าใหม่/ทดแทน,Renewable Energy,2100,3.217799025
+2575,Combined-Cycle Power Plant,Combined-Cycle Power Plant,โรงไฟฟ้าใหม่/ทดแทน,Renewable Energy,4200,6.250558086
+2576,Combined-Cycle Power Plant,Combined-Cycle Power Plant,โรงไฟฟ้าใหม่/ทดแทน,Renewable Energy,4200,5.98247988
+2577,Combined-Cycle Power Plant,Combined-Cycle Power Plant,โรงไฟฟ้าใหม่/ทดแทน,Renewable Energy,4200,5.86903664
+2578,Combined-Cycle Power Plant,Combined-Cycle Power Plant,โรงไฟฟ้าใหม่/ทดแทน,Renewable Energy,4900,6.623053633
+2579,Combined-Cycle Power Plant,Combined-Cycle Power Plant,โรงไฟฟ้าใหม่/ทดแทน,Renewable Energy,5600,7.326486557
+2580,Combined-Cycle Power Plant,Combined-Cycle Power Plant,โรงไฟฟ้าใหม่/ทดแทน,Renewable Energy,6300,8.159459144
+2561,Renewable Energy,Small Hydro Electricity,SPP Firm/Hybrid,SPP,327,0.7
+2562,Renewable Energy,Small Hydro Electricity,SPP Firm/Hybrid,SPP,352,0.7
+2563,Renewable Energy,Small Hydro Electricity,SPP Firm/Hybrid,SPP,370,0.7
+2564,Renewable Energy,Small Hydro Electricity,SPP Firm/Hybrid,SPP,704,1.3
+2565,Renewable Energy,Small Hydro Electricity,SPP Firm/Hybrid,SPP,764,1.4
+2566,Renewable Energy,Small Hydro Electricity,SPP Firm/Hybrid,SPP,764,1.4
+2567,Renewable Energy,Small Hydro Electricity,SPP Firm/Hybrid,SPP,715,1.3
+2568,Renewable Energy,Small Hydro Electricity,SPP Firm/Hybrid,SPP,659,1.2
+2569,Renewable Energy,Small Hydro Electricity,SPP Firm/Hybrid,SPP,654,1.2
+2570,Renewable Energy,Small Hydro Electricity,SPP Firm/Hybrid,SPP,654,1.1
+2571,Renewable Energy,Small Hydro Electricity,SPP Firm/Hybrid,SPP,551,0.9
+2572,Renewable Energy,Small Hydro Electricity,SPP Firm/Hybrid,SPP,551,0.9
+2573,Renewable Energy,Small Hydro Electricity,SPP Firm/Hybrid,SPP,551,0.9
+2574,Renewable Energy,Small Hydro Electricity,SPP Firm/Hybrid,SPP,510,0.8
+2575,Renewable Energy,Small Hydro Electricity,SPP Firm/Hybrid,SPP,502,0.7
+2576,Renewable Energy,Small Hydro Electricity,SPP Firm/Hybrid,SPP,502,0.7
+2577,Renewable Energy,Small Hydro Electricity,SPP Firm/Hybrid,SPP,481,0.7
+2578,Renewable Energy,Small Hydro Electricity,SPP Firm/Hybrid,SPP,481,0.7
+2579,Renewable Energy,Small Hydro Electricity,SPP Firm/Hybrid,SPP,481,0.6
+2580,Renewable Energy,Small Hydro Electricity,SPP Firm/Hybrid,SPP,467,0.6
+2561,Renewable Energy,Small Hydro Electricity,SPP Non-firm,SPP,2309,4.8
+2562,Renewable Energy,Small Hydro Electricity,SPP Non-firm,SPP,2543,5
+2563,Renewable Energy,Small Hydro Electricity,SPP Non-firm,SPP,2563,5
+2564,Renewable Energy,Small Hydro Electricity,SPP Non-firm,SPP,2563,4.8
+2565,Renewable Energy,Small Hydro Electricity,SPP Non-firm,SPP,2563,4.7
+2566,Renewable Energy,Small Hydro Electricity,SPP Non-firm,SPP,2563,4.7
+2567,Renewable Energy,Small Hydro Electricity,SPP Non-firm,SPP,2563,4.5
+2568,Renewable Energy,Small Hydro Electricity,SPP Non-firm,SPP,2563,4.7
+2569,Renewable Energy,Small Hydro Electricity,SPP Non-firm,SPP,2563,4.5
+2570,Renewable Energy,Small Hydro Electricity,SPP Non-firm,SPP,2563,4.5
+2571,Renewable Energy,Small Hydro Electricity,SPP Non-firm,SPP,2563,4.4
+2572,Renewable Energy,Small Hydro Electricity,SPP Non-firm,SPP,2563,4.3
+2573,Renewable Energy,Small Hydro Electricity,SPP Non-firm,SPP,2563,4.1
+2574,Renewable Energy,Small Hydro Electricity,SPP Non-firm,SPP,2563,3.9
+2575,Renewable Energy,Small Hydro Electricity,SPP Non-firm,SPP,2563,3.8
+2576,Renewable Energy,Small Hydro Electricity,SPP Non-firm,SPP,2563,3.7
+2577,Renewable Energy,Small Hydro Electricity,SPP Non-firm,SPP,2563,3.6
+2578,Renewable Energy,Small Hydro Electricity,SPP Non-firm,SPP,2563,3.5
+2579,Renewable Energy,Small Hydro Electricity,SPP Non-firm,SPP,2563,3.4
+2580,Renewable Energy,Small Hydro Electricity,SPP Non-firm,SPP,2563,3.3
+2561,Renewable Energy,Small Hydro Electricity,VSPP/ พพ./ PEA/ อื่นๆ,VSPP,3701,7.7
+2562,Renewable Energy,Small Hydro Electricity,VSPP/ พพ./ PEA/ อื่นๆ,VSPP,4134,8.1
+2563,Renewable Energy,Small Hydro Electricity,VSPP/ พพ./ PEA/ อื่นๆ,VSPP,4290,8.3
+2564,Renewable Energy,Small Hydro Electricity,VSPP/ พพ./ PEA/ อื่นๆ,VSPP,4409,8.3
+2565,Renewable Energy,Small Hydro Electricity,VSPP/ พพ./ PEA/ อื่นๆ,VSPP,5029,9.2
+2566,Renewable Energy,Small Hydro Electricity,VSPP/ พพ./ PEA/ อื่นๆ,VSPP,5244,9.6
+2567,Renewable Energy,Small Hydro Electricity,VSPP/ พพ./ PEA/ อื่นๆ,VSPP,5480,9.7
+2568,Renewable Energy,Small Hydro Electricity,VSPP/ พพ./ PEA/ อื่นๆ,VSPP,5566,10.3
+2569,Renewable Energy,Small Hydro Electricity,VSPP/ พพ./ PEA/ อื่นๆ,VSPP,5754,10.1
+2570,Renewable Energy,Small Hydro Electricity,VSPP/ พพ./ PEA/ อื่นๆ,VSPP,6037,10.6
+2571,Renewable Energy,Small Hydro Electricity,VSPP/ พพ./ PEA/ อื่นๆ,VSPP,7373,12.7
+2572,Renewable Energy,Small Hydro Electricity,VSPP/ พพ./ PEA/ อื่นๆ,VSPP,8596,14.3
+2573,Renewable Energy,Small Hydro Electricity,VSPP/ พพ./ PEA/ อื่นๆ,VSPP,9865,15.8
+2574,Renewable Energy,Small Hydro Electricity,VSPP/ พพ./ PEA/ อื่นๆ,VSPP,12363,18.9
+2575,Renewable Energy,Small Hydro Electricity,VSPP/ พพ./ PEA/ อื่นๆ,VSPP,12931,19.2
+2576,Renewable Energy,Small Hydro Electricity,VSPP/ พพ./ PEA/ อื่นๆ,VSPP,15736,22.4
+2577,Renewable Energy,Small Hydro Electricity,VSPP/ พพ./ PEA/ อื่นๆ,VSPP,16140,22.6
+2578,Renewable Energy,Small Hydro Electricity,VSPP/ พพ./ PEA/ อื่นๆ,VSPP,17569,23.7
+2579,Renewable Energy,Small Hydro Electricity,VSPP/ พพ./ PEA/ อื่นๆ,VSPP,19030,24.9
+2580,Renewable Energy,Small Hydro Electricity,VSPP/ พพ./ PEA/ อื่นๆ,VSPP,19160,24.8
+2561,Renewable Energy,Small Hydro Electricity,กฟผ.,EGAT,136,0.3
+2562,Renewable Energy,Small Hydro Electricity,กฟผ.,EGAT,137,0.3
+2563,Renewable Energy,Small Hydro Electricity,กฟผ.,EGAT,185,0.4
+2564,Renewable Energy,Small Hydro Electricity,กฟผ.,EGAT,199,0.4
+2565,Renewable Energy,Small Hydro Electricity,กฟผ.,EGAT,199,0.4
+2566,Renewable Energy,Small Hydro Electricity,กฟผ.,EGAT,241,0.4
+2567,Renewable Energy,Small Hydro Electricity,กฟผ.,EGAT,241,0.4
+2568,Renewable Energy,Small Hydro Electricity,กฟผ.,EGAT,241,0.4
+2569,Renewable Energy,Small Hydro Electricity,กฟผ.,EGAT,539,0.9
+2570,Renewable Energy,Small Hydro Electricity,กฟผ.,EGAT,589,1
+2571,Renewable Energy,Small Hydro Electricity,กฟผ.,EGAT,589,1
+2572,Renewable Energy,Small Hydro Electricity,กฟผ.,EGAT,869,1.4
+2573,Renewable Energy,Small Hydro Electricity,กฟผ.,EGAT,1169,1.9
+2574,Renewable Energy,Small Hydro Electricity,กฟผ.,EGAT,1419,2.2
+2575,Renewable Energy,Small Hydro Electricity,กฟผ.,EGAT,1719,2.6
+2576,Renewable Energy,Small Hydro Electricity,กฟผ.,EGAT,2157,3.1
+2577,Renewable Energy,Small Hydro Electricity,กฟผ.,EGAT,2297,3.2
+2578,Renewable Energy,Small Hydro Electricity,กฟผ.,EGAT,2622,3.5
+2579,Renewable Energy,Small Hydro Electricity,กฟผ.,EGAT,2722,3.6
+2580,Renewable Energy,Small Hydro Electricity,กฟผ.,EGAT,2897,3.8
+2561,Renewable Energy,Small Hydro Electricity,กฟผ.,EGAT,3918,8.2
+2562,Renewable Energy,Large Hydro Electricity,กฟผ.,EGAT,3918,7.7
+2563,Renewable Energy,Large Hydro Electricity,กฟผ.,EGAT,3918,7.6
+2564,Renewable Energy,Large Hydro Electricity,กฟผ.,EGAT,3918,7.4
+2565,Renewable Energy,Large Hydro Electricity,กฟผ.,EGAT,3918,7.2
+2566,Renewable Energy,Large Hydro Electricity,กฟผ.,EGAT,3918,7.1
+2567,Renewable Energy,Large Hydro Electricity,กฟผ.,EGAT,3918,6.9
+2568,Renewable Energy,Large Hydro Electricity,กฟผ.,EGAT,3918,7.3
+2569,Renewable Energy,Large Hydro Electricity,กฟผ.,EGAT,3918,6.9
+2570,Renewable Energy,Large Hydro Electricity,กฟผ.,EGAT,3918,6.9
+2571,Renewable Energy,Large Hydro Electricity,กฟผ.,EGAT,3918,6.7
+2572,Renewable Energy,Large Hydro Electricity,กฟผ.,EGAT,3918,6.5
+2573,Renewable Energy,Large Hydro Electricity,กฟผ.,EGAT,3918,6.3
+2574,Renewable Energy,Large Hydro Electricity,กฟผ.,EGAT,3918,6
+2575,Renewable Energy,Large Hydro Electricity,กฟผ.,EGAT,3918,5.8
+2576,Renewable Energy,Large Hydro Electricity,กฟผ.,EGAT,3918,5.6
+2577,Renewable Energy,Large Hydro Electricity,กฟผ.,EGAT,3918,5.5
+2578,Renewable Energy,Large Hydro Electricity,กฟผ.,EGAT,3918,5.3
+2579,Renewable Energy,Large Hydro Electricity,กฟผ.,EGAT,3918,5.1
+2580,Renewable Energy,Large Hydro Electricity,กฟผ.,EGAT,3918,5.1
+2561,Renewable Energy,Large Hydro Electricity,รับซื้อไฟฟ้าต่างประเทศ,IMPORT,0,0
+2562,Renewable Energy,Large Hydro Electricity,รับซื้อไฟฟ้าต่างประเทศ,IMPORT,0,0
+2563,Renewable Energy,Large Hydro Electricity,รับซื้อไฟฟ้าต่างประเทศ,IMPORT,0,0
+2564,Renewable Energy,Large Hydro Electricity,รับซื้อไฟฟ้าต่างประเทศ,IMPORT,0,0
+2565,Renewable Energy,Large Hydro Electricity,รับซื้อไฟฟ้าต่างประเทศ,IMPORT,0,0
+2566,Renewable Energy,Large Hydro Electricity,รับซื้อไฟฟ้าต่างประเทศ,IMPORT,0,0
+2567,Renewable Energy,Large Hydro Electricity,รับซื้อไฟฟ้าต่างประเทศ,IMPORT,0,0
+2568,Renewable Energy,Large Hydro Electricity,รับซื้อไฟฟ้าต่างประเทศ,IMPORT,0,0
+2569,Renewable Energy,Large Hydro Electricity,รับซื้อไฟฟ้าต่างประเทศ,IMPORT,700,1.2
+2570,Renewable Energy,Large Hydro Electricity,รับซื้อไฟฟ้าต่างประเทศ,IMPORT,700,1.2
+2571,Renewable Energy,Large Hydro Electricity,รับซื้อไฟฟ้าต่างประเทศ,IMPORT,1400,2.4
+2572,Renewable Energy,Large Hydro Electricity,รับซื้อไฟฟ้าต่างประเทศ,IMPORT,1400,2.3
+2573,Renewable Energy,Large Hydro Electricity,รับซื้อไฟฟ้าต่างประเทศ,IMPORT,1400,2.2
+2574,Renewable Energy,Large Hydro Electricity,รับซื้อไฟฟ้าต่างประเทศ,IMPORT,1400,2.1
+2575,Renewable Energy,Large Hydro Electricity,รับซื้อไฟฟ้าต่างประเทศ,IMPORT,2100,3.1
+2576,Renewable Energy,Large Hydro Electricity,รับซื้อไฟฟ้าต่างประเทศ,IMPORT,2800,4
+2577,Renewable Energy,Large Hydro Electricity,รับซื้อไฟฟ้าต่างประเทศ,IMPORT,2800,3.9
+2578,Renewable Energy,Large Hydro Electricity,รับซื้อไฟฟ้าต่างประเทศ,IMPORT,3500,4.7
+2579,Renewable Energy,Large Hydro Electricity,รับซื้อไฟฟ้าต่างประเทศ,IMPORT,3500,4.6
+2580,Renewable Energy,Large Hydro Electricity,รับซื้อไฟฟ้าต่างประเทศ,IMPORT,3500,4.5
+2561,Renewable Energy,Large Hydro Electricity,สปป. ลาว,IMPORT,2105,4.4
+2562,Renewable Energy,Large Hydro Electricity,สปป. ลาว,IMPORT,3948,7.8
+2563,Renewable Energy,Large Hydro Electricity,สปป. ลาว,IMPORT,3948,7.7
+2564,Renewable Energy,Large Hydro Electricity,สปป. ลาว,IMPORT,3948,7.4
+2565,Renewable Energy,Large Hydro Electricity,สปป. ลาว,IMPORT,4462,8.2
+2566,Renewable Energy,Large Hydro Electricity,สปป. ลาว,IMPORT,4462,8.1
+2567,Renewable Energy,Large Hydro Electricity,สปป. ลาว,IMPORT,4462,7.9
+2568,Renewable Energy,Large Hydro Electricity,สปป. ลาว,IMPORT,4462,8.3
+2569,Renewable Energy,Large Hydro Electricity,สปป. ลาว,IMPORT,4462,7.9
+2570,Renewable Energy,Large Hydro Electricity,สปป. ลาว,IMPORT,4462,7.8
+2571,Renewable Energy,Large Hydro Electricity,สปป. ลาว,IMPORT,4462,7.7
+2572,Renewable Energy,Large Hydro Electricity,สปป. ลาว,IMPORT,4336,7.2
+2573,Renewable Energy,Large Hydro Electricity,สปป. ลาว,IMPORT,4336,6.9
+2574,Renewable Energy,Large Hydro Electricity,สปป. ลาว,IMPORT,4336,6.6
+2575,Renewable Energy,Large Hydro Electricity,สปป. ลาว,IMPORT,4336,6.5
+2576,Renewable Energy,Large Hydro Electricity,สปป. ลาว,IMPORT,4336,6.2
+2577,Renewable Energy,Large Hydro Electricity,สปป. ลาว,IMPORT,4336,6.1
+2578,Renewable Energy,Large Hydro Electricity,สปป. ลาว,IMPORT,3388,4.6
+2579,Renewable Energy,Large Hydro Electricity,สปป. ลาว,IMPORT,3388,4.4
+2580,Renewable Energy,Large Hydro Electricity,สปป. ลาว,IMPORT,3388,4.4
+2561,Energy Saving,Energy Saving,Energy Saving,Energy Saving,0,0
+2562,Energy Saving,Energy Saving,Energy Saving,Energy Saving,0,0
+2563,Energy Saving,Energy Saving,Energy Saving,Energy Saving,0,0
+2564,Energy Saving,Energy Saving,Energy Saving,Energy Saving,0,0
+2565,Energy Saving,Energy Saving,Energy Saving,Energy Saving,0,0
+2566,Energy Saving,Energy Saving,Energy Saving,Energy Saving,0,0
+2567,Energy Saving,Energy Saving,Energy Saving,Energy Saving,0,0
+2568,Energy Saving,Energy Saving,Energy Saving,Energy Saving,0,0
+2569,Energy Saving,Energy Saving,Energy Saving,Energy Saving,0,0
+2570,Energy Saving,Energy Saving,Energy Saving,Energy Saving,0,0
+2571,Energy Saving,Energy Saving,Energy Saving,Energy Saving,0,0
+2572,Energy Saving,Energy Saving,Energy Saving,Energy Saving,0,0
+2573,Energy Saving,Energy Saving,Energy Saving,Energy Saving,0,0
+2574,Energy Saving,Energy Saving,Energy Saving,Energy Saving,0,0
+2575,Energy Saving,Energy Saving,Energy Saving,Energy Saving,354,0.526832753
+2576,Energy Saving,Energy Saving,Energy Saving,Energy Saving,556,0.791966384
+2577,Energy Saving,Energy Saving,Energy Saving,Energy Saving,1415,1.977306392
+2578,Energy Saving,Energy Saving,Energy Saving,Energy Saving,2440,3.298010381
+2579,Energy Saving,Energy Saving,Energy Saving,Energy Saving,3300,4.317393864
+2580,Energy Saving,Energy Saving,Energy Saving,Energy Saving,4000,5.180608981
+2561,สายส่งเชื่อมโยง      ,สายส่งเชื่อมโยง      ,ไทย - มาเลเซีย,IMPORT,300,0.624973959
+2562,สายส่งเชื่อมโยง      ,สายส่งเชื่อมโยง      ,ไทย - มาเลเซีย,IMPORT,300,0.589020655
+2563,สายส่งเชื่อมโยง      ,สายส่งเชื่อมโยง      ,ไทย - มาเลเซีย,IMPORT,300,0.583737085
+2564,สายส่งเชื่อมโยง      ,สายส่งเชื่อมโยง      ,ไทย - มาเลเซีย,IMPORT,300,0.564143067
+2565,สายส่งเชื่อมโยง      ,สายส่งเชื่อมโยง      ,ไทย - มาเลเซีย,IMPORT,300,0.551166636
+2566,สายส่งเชื่อมโยง      ,สายส่งเชื่อมโยง      ,ไทย - มาเลเซีย,IMPORT,300,0.546547641
+2567,สายส่งเชื่อมโยง      ,สายส่งเชื่อมโยง      ,ไทย - มาเลเซีย,IMPORT,300,0.529698425
+2568,สายส่งเชื่อมโยง      ,สายส่งเชื่อมโยง      ,ไทย - มาเลเซีย,IMPORT,300,0.555288195
+2569,สายส่งเชื่อมโยง      ,สายส่งเชื่อมโยง      ,ไทย - มาเลเซีย,IMPORT,300,0.528382972
+2570,สายส่งเชื่อมโยง      ,สายส่งเชื่อมโยง      ,ไทย - มาเลเซีย,IMPORT,300,0.527583842
+2571,สายส่งเชื่อมโยง      ,สายส่งเชื่อมโยง      ,ไทย - มาเลเซีย,IMPORT,300,0.515401928
+2572,สายส่งเชื่อมโยง      ,สายส่งเชื่อมโยง      ,ไทย - มาเลเซีย,IMPORT,300,0.497644483
+2573,สายส่งเชื่อมโยง      ,สายส่งเชื่อมโยง      ,ไทย - มาเลเซีย,IMPORT,300,0.479593305
+2574,สายส่งเชื่อมโยง      ,สายส่งเชื่อมโยง      ,ไทย - มาเลเซีย,IMPORT,300,0.459685575
+2575,สายส่งเชื่อมโยง      ,สายส่งเชื่อมโยง      ,ไทย - มาเลเซีย,IMPORT,300,0.446468435
+2576,สายส่งเชื่อมโยง      ,สายส่งเชื่อมโยง      ,ไทย - มาเลเซีย,IMPORT,300,0.427319991
+2577,สายส่งเชื่อมโยง      ,สายส่งเชื่อมโยง      ,ไทย - มาเลเซีย,IMPORT,300,0.419216903
+2578,สายส่งเชื่อมโยง      ,สายส่งเชื่อมโยง      ,ไทย - มาเลเซีย,IMPORT,300,0.40549308
+2579,สายส่งเชื่อมโยง      ,สายส่งเชื่อมโยง      ,ไทย - มาเลเซีย,IMPORT,300,0.392490351
+2580,สายส่งเชื่อมโยง      ,สายส่งเชื่อมโยง      ,ไทย - มาเลเซีย,IMPORT,300,0.388545674
+2561,Cogeneration,Gas,SPP Firm,SPP,5747,11.97241782
+2562,Cogeneration,Gas,SPP Firm,SPP,6137,12.0493992
+2563,Cogeneration,Gas,SPP Firm,SPP,5987,11.64944642
+2564,Cogeneration,Gas,SPP Firm,SPP,6055,11.38628756
+2565,Cogeneration,Gas,SPP Firm,SPP,5965,10.95902995
+2566,Cogeneration,Gas,SPP Firm,SPP,5954,10.84714884
+2567,Cogeneration,Gas,SPP Firm,SPP,5744,10.14195918
+2568,Cogeneration,Gas,SPP Firm,SPP,5684,10.52086033
+2569,Cogeneration,Gas,SPP Firm,SPP,5684,10.01109604
+2570,Cogeneration,Gas,SPP Firm,SPP,5684,9.995955191
+2571,Cogeneration,Gas,SPP Firm,SPP,5684,9.765148522
+2572,Cogeneration,Gas,SPP Firm,SPP,5684,9.428704134
+2573,Cogeneration,Gas,SPP Firm,SPP,5684,9.086694483
+2574,Cogeneration,Gas,SPP Firm,SPP,5684,8.709509362
+2575,Cogeneration,Gas,SPP Firm,SPP,5684,8.459088609
+2576,Cogeneration,Gas,SPP Firm,SPP,5684,8.096289438
+2577,Cogeneration,Gas,SPP Firm,SPP,5684,7.942762919
+2578,Cogeneration,Gas,SPP Firm,SPP,5594,7.561094291
+2579,Cogeneration,Gas,SPP Firm,SPP,5594,7.31863675
+2580,Cogeneration,Gas,SPP Firm,SPP,5340,6.916112989
+2561,Cogeneration,Gas,SPP Non-firm,SPP,270,0.562476563
+2562,Cogeneration,Gas,SPP Non-firm,SPP,270,0.530118589
+2563,Cogeneration,Gas,SPP Non-firm,SPP,270,0.525363376
+2564,Cogeneration,Gas,SPP Non-firm,SPP,270,0.50772876
+2565,Cogeneration,Gas,SPP Non-firm,SPP,270,0.496049972
+2566,Cogeneration,Gas,SPP Non-firm,SPP,270,0.491892877
+2567,Cogeneration,Gas,SPP Non-firm,SPP,270,0.476728583
+2568,Cogeneration,Gas,SPP Non-firm,SPP,270,0.499759375
+2569,Cogeneration,Gas,SPP Non-firm,SPP,270,0.475544675
+2570,Cogeneration,Gas,SPP Non-firm,SPP,270,0.474825458
+2571,Cogeneration,Gas,SPP Non-firm,SPP,270,0.463861735
+2572,Cogeneration,Gas,SPP Non-firm,SPP,270,0.447880035
+2573,Cogeneration,Gas,SPP Non-firm,SPP,270,0.431633974
+2574,Cogeneration,Gas,SPP Non-firm,SPP,270,0.413717018
+2575,Cogeneration,Gas,SPP Non-firm,SPP,270,0.401821591
+2576,Cogeneration,Gas,SPP Non-firm,SPP,270,0.384587992
+2577,Cogeneration,Gas,SPP Non-firm,SPP,270,0.377295213
+2578,Cogeneration,Gas,SPP Non-firm,SPP,270,0.364943772
+2579,Cogeneration,Gas,SPP Non-firm,SPP,270,0.353241316
+2580,Cogeneration,Gas,SPP Non-firm,SPP,270,0.349691106
+2561,Cogeneration,Gas,VSPP,VSPP,25,0.052081163
+2562,Cogeneration,Gas,VSPP,VSPP,32,0.06282887
+2563,Cogeneration,Gas,VSPP,VSPP,32,0.062265289
+2564,Cogeneration,Gas,VSPP,VSPP,32,0.06017526
+2565,Cogeneration,Gas,VSPP,VSPP,32,0.058791108
+2566,Cogeneration,Gas,VSPP,VSPP,32,0.058298415
+2567,Cogeneration,Gas,VSPP,VSPP,32,0.056501165
+2568,Cogeneration,Gas,VSPP,VSPP,32,0.059230741
+2569,Cogeneration,Gas,VSPP,VSPP,32,0.05636085
+2570,Cogeneration,Gas,VSPP,VSPP,32,0.05627561
+2571,Cogeneration,Gas,VSPP,VSPP,32,0.054976206
+2572,Cogeneration,Gas,VSPP,VSPP,32,0.053082078
+2573,Cogeneration,Gas,VSPP,VSPP,32,0.051156619
+2574,Cogeneration,Gas,VSPP,VSPP,32,0.049033128
+2575,Cogeneration,Gas,VSPP,VSPP,32,0.0476233
+2576,Cogeneration,Gas,VSPP,VSPP,32,0.045580799
+2577,Cogeneration,Gas,VSPP,VSPP,32,0.04471647
+2578,Cogeneration,Gas,VSPP,VSPP,32,0.043252595
+2579,Cogeneration,Gas,VSPP,VSPP,32,0.041865637
+2580,Cogeneration,Gas,VSPP,VSPP,32,0.041444872
+2561,Cogeneration,Coal,SPP Firm,SPP,370,0.770801217
+2562,Cogeneration,Coal,SPP Firm,SPP,370,0.726458808
+2563,Cogeneration,Coal,SPP Firm,SPP,370,0.719942405
+2564,Cogeneration,Coal,SPP Firm,SPP,370,0.695776449
+2565,Cogeneration,Coal,SPP Firm,SPP,370,0.679772184
+2566,Cogeneration,Coal,SPP Firm,SPP,370,0.674075424
+2567,Cogeneration,Coal,SPP Firm,SPP,190,0.335475669
+2568,Cogeneration,Coal,SPP Firm,SPP,130,0.240624884
+2569,Cogeneration,Coal,SPP Firm,SPP,130,0.228965955
+2570,Cogeneration,Coal,SPP Firm,SPP,130,0.228619665
+2571,Cogeneration,Coal,SPP Firm,SPP,130,0.223340835
+2572,Cogeneration,Coal,SPP Firm,SPP,130,0.215645943
+2573,Cogeneration,Coal,SPP Firm,SPP,130,0.207823765
+2574,Cogeneration,Coal,SPP Firm,SPP,130,0.199197083
+2575,Cogeneration,Coal,SPP Firm,SPP,130,0.193469655
+2576,Cogeneration,Coal,SPP Firm,SPP,130,0.185171996
+2577,Cogeneration,Coal,SPP Firm,SPP,130,0.181660658
+2578,Cogeneration,Coal,SPP Firm,SPP,130,0.175713668
+2579,Cogeneration,Coal,SPP Firm,SPP,130,0.170079152
+2580,Cogeneration,Coal,SPP Firm,SPP,130,0.168369792
+2561,Cogeneration,Coal,SPP Non-firm,SPP,8,0.016665972
+2562,Cogeneration,Coal,SPP Non-firm,SPP,8,0.015707217
+2563,Cogeneration,Coal,SPP Non-firm,SPP,8,0.015566322
+2564,Cogeneration,Coal,SPP Non-firm,SPP,8,0.015043815
+2565,Cogeneration,Coal,SPP Non-firm,SPP,8,0.014697777
+2566,Cogeneration,Coal,SPP Non-firm,SPP,8,0.014574604
+2567,Cogeneration,Coal,SPP Non-firm,SPP,8,0.014125291
+2568,Cogeneration,Coal,SPP Non-firm,SPP,8,0.014807685
+2569,Cogeneration,Coal,SPP Non-firm,SPP,8,0.014090213
+2570,Cogeneration,Coal,SPP Non-firm,SPP,8,0.014068902
+2571,Cogeneration,Coal,SPP Non-firm,SPP,8,0.013744051
+2572,Cogeneration,Coal,SPP Non-firm,SPP,8,0.01327052
+2573,Cogeneration,Coal,SPP Non-firm,SPP,8,0.012789155
+2574,Cogeneration,Coal,SPP Non-firm,SPP,8,0.012258282
+2575,Cogeneration,Coal,SPP Non-firm,SPP,8,0.011905825
+2576,Cogeneration,Coal,SPP Non-firm,SPP,8,0.0113952
+2577,Cogeneration,Coal,SPP Non-firm,SPP,8,0.011179117
+2578,Cogeneration,Coal,SPP Non-firm,SPP,8,0.010813149
+2579,Cogeneration,Coal,SPP Non-firm,SPP,8,0.010466409
+2580,Cogeneration,Coal,SPP Non-firm,SPP,8,0.010361218
+2561,Cogeneration,Coal,VSPP/ พพ./ PEA/ อื่นๆ,VSPP,32,0.066663889
+2562,Cogeneration,Coal,VSPP/ พพ./ PEA/ อื่นๆ,VSPP,32,0.06282887
+2563,Cogeneration,Coal,VSPP/ พพ./ PEA/ อื่นๆ,VSPP,32,0.062265289
+2564,Cogeneration,Coal,VSPP/ พพ./ PEA/ อื่นๆ,VSPP,32,0.06017526
+2565,Cogeneration,Coal,VSPP/ พพ./ PEA/ อื่นๆ,VSPP,32,0.058791108
+2566,Cogeneration,Coal,VSPP/ พพ./ PEA/ อื่นๆ,VSPP,32,0.058298415
+2567,Cogeneration,Coal,VSPP/ พพ./ PEA/ อื่นๆ,VSPP,32,0.056501165
+2568,Cogeneration,Coal,VSPP/ พพ./ PEA/ อื่นๆ,VSPP,32,0.059230741
+2569,Cogeneration,Coal,VSPP/ พพ./ PEA/ อื่นๆ,VSPP,32,0.05636085
+2570,Cogeneration,Coal,VSPP/ พพ./ PEA/ อื่นๆ,VSPP,32,0.05627561
+2571,Cogeneration,Coal,VSPP/ พพ./ PEA/ อื่นๆ,VSPP,32,0.054976206
+2572,Cogeneration,Coal,VSPP/ พพ./ PEA/ อื่นๆ,VSPP,32,0.053082078
+2573,Cogeneration,Coal,VSPP/ พพ./ PEA/ อื่นๆ,VSPP,32,0.051156619
+2574,Cogeneration,Coal,VSPP/ พพ./ PEA/ อื่นๆ,VSPP,32,0.049033128
+2575,Cogeneration,Coal,VSPP/ พพ./ PEA/ อื่นๆ,VSPP,32,0.0476233
+2576,Cogeneration,Coal,VSPP/ พพ./ PEA/ อื่นๆ,VSPP,32,0.045580799
+2577,Cogeneration,Coal,VSPP/ พพ./ PEA/ อื่นๆ,VSPP,32,0.04471647
+2578,Cogeneration,Coal,VSPP/ พพ./ PEA/ อื่นๆ,VSPP,32,0.043252595
+2579,Cogeneration,Coal,VSPP/ พพ./ PEA/ อื่นๆ,VSPP,32,0.041865637
+2580,Cogeneration,Coal,VSPP/ พพ./ PEA/ อื่นๆ,VSPP,32,0.041444872
+2561,Cogeneration,Fuel Oil,SPP Firm,SPP,5,0.010416233
+2562,Cogeneration,Fuel Oil,SPP Firm,SPP,5,0.009817011
+2563,Cogeneration,Fuel Oil,SPP Firm,SPP,5,0.009728951
+2564,Cogeneration,Fuel Oil,SPP Firm,SPP,5,0.009402384
+2565,Cogeneration,Fuel Oil,SPP Firm,SPP,5,0.009186111
+2566,Cogeneration,Fuel Oil,SPP Firm,SPP,5,0.009109127
+2567,Cogeneration,Fuel Oil,SPP Firm,SPP,5,0.008828307
+2568,Cogeneration,Fuel Oil,SPP Firm,SPP,5,0.009254803
+2569,Cogeneration,Fuel Oil,SPP Firm,SPP,5,0.008806383
+2570,Cogeneration,Fuel Oil,SPP Firm,SPP,5,0.008793064
+2571,Cogeneration,Fuel Oil,SPP Firm,SPP,5,0.008590032
+2572,Cogeneration,Fuel Oil,SPP Firm,SPP,5,0.008294075
+2573,Cogeneration,Fuel Oil,SPP Firm,SPP,5,0.007993222
+2574,Cogeneration,Fuel Oil,SPP Firm,SPP,5,0.007661426
+2575,Cogeneration,Fuel Oil,SPP Firm,SPP,5,0.007441141
+2576,Cogeneration,Fuel Oil,SPP Firm,SPP,5,0.007122
+2577,Cogeneration,Fuel Oil,SPP Firm,SPP,5,0.006986948
+2578,Cogeneration,Fuel Oil,SPP Firm,SPP,5,0.006758218
+2579,Cogeneration,Fuel Oil,SPP Firm,SPP,5,0.006541506
+2580,Cogeneration,Fuel Oil,SPP Firm,SPP,5,0.006475761
