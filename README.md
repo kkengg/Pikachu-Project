@@ -50,11 +50,11 @@ Ref:https://www.egat.co.th
  3. ผู้ผลิตไฟฟ้ารายเล็ก (SPP)
  4. นำเข้า (IMPORT)
 
-![ดาวน์โหลด](https://github.com/kkengg/Pikachu-Project/assets/123485982/c1297f67-5563-4c4f-8a65-c08c17520840)
+![download (7)](https://github.com/kkengg/Pikachu-Project/assets/123485982/28cb4192-4986-40e7-aac6-ff692e9f7b00)
 
 จากภาพเป็นข้อมูลการผลิตไฟฟ้าจาก PDP2018 จะพบว่า EGAT มีปริมาณการผลิตไฟฟ้าคงที่หรือที่ประมาฯ 15,000 MW ตั้งต่ปี 2544-2565 และผู้ผลิตไฟฟ้ารายใหญ่ รายเล็ก และการนำเข้าจากต่างประเทศมีการเพิ่มตัวขึ้นเรื่อยๆตามการใช้งานจริง เนื่องจากการไฟฟ้าฝ่ายผลิตยังไม่สามารถผลิตไฟฟ้าตามการใช้งานจริง ทำให้ต้องมีการซื้อไฟฟ้าจากภาคเอกชนมากขึ้นและในอนาคตการกำหนดราคาไฟฟ้าจากการไฟฟ้าอาจะมีตัวแปรของภาคเอกชนเข้ามาเป็นตัวแปรสำคัญต่อราคาไฟฟ้า
 
-![Price purchased by Producer](https://github.com/kkengg/Pikachu-Project/assets/123485982/53ee7988-d859-4c0e-bbe4-f50a66ef80ba)
+![download (8)](https://github.com/kkengg/Pikachu-Project/assets/123485982/0b413e62-3c51-4cf5-b08c-81d95ae9fdf3)
 
 จากราคาการผลิตไฟฟ้าจากภาคเอกชน จึงพบว่าราคาของผู้ผลิตรายย่อยมีราคาที่สูงกว่าผู้ผลิตรายใหญ่ และจากกราฟพบว่าการซื้อไฟฟ้าจากรายย่อยมีปริมาณที่มากขึ้นเรื่อยๆ และราคายังมีแนวโน้มที่สูงขึ้น 
   
@@ -66,22 +66,22 @@ Ref:https://www.egat.co.th
 4. พลังงานหมุนเวียน
 5. พลังานน้ำ
 6. น้ำมันดีเซล
-7. น้ำมันเตา
-   
-![ดาวน์โหลด (5)](https://github.com/kkengg/Pikachu-Project/assets/123485982/e238683f-5960-47b4-a779-ff7c70e12d51)
+7. น้ำมันเตา   
 
-![ดาวน์โหลด (1)](https://github.com/kkengg/Pikachu-Project/assets/123485982/5c29cbdd-e11f-4d14-a547-aba60a8bd5bc)
+![download (5)](https://github.com/kkengg/Pikachu-Project/assets/123485982/4d572bfe-5a52-4928-897b-dcbd57a3dabe)
+
+![download (6)](https://github.com/kkengg/Pikachu-Project/assets/123485982/3d7139ad-83ef-4f36-8e26-19437d037481)
 
 โดยประเทศไทยมีค่าผลิตไฟฟ้าโดยแก๊สธรรมชาติเป็นอันดับ 1 แต่มีแนวโน้มต่อจากการผลิตลดลงเรื่อยๆ เนื่องจากปัจจุบันแก๊สธรรมชาติเป็นเป็นเชื้อเพลิงหลักในการผลิตไฟฟ้ามีแนวโน้มลดลงและเริ่มมีราคาเพิ่มขึ้น และประเทศไทยมีการนำเข้าไฟฟ้ามาขึ้นจาก สปป ลาว ในระยะ 10 ปีที่ผ่านมา และที่น่าสนใจการผลิตไฟฟ้าจากพลังงานหมุนเวียน(พลังงานน้ำ พลังงานแสงอาทิตย์ พลังงานลม พลังงานชีวมวล) มีแนวโน้มที่สูงขึ้น
 
-![2](https://github.com/kkengg/Pikachu-Project/assets/123485982/e29d7bff-5e85-41a7-b025-8f61ce21b018)
-![3](https://github.com/kkengg/Pikachu-Project/assets/123485982/7d70d646-f87b-4e8b-b38c-d075668a0335)
-![4](https://github.com/kkengg/Pikachu-Project/assets/123485982/27ec7f61-3a83-4db3-a3f5-a39cda208134)
-![1](https://github.com/kkengg/Pikachu-Project/assets/123485982/6c9ed3f6-0cea-470e-9646-4e27801ff06e)
+![download (3)](https://github.com/kkengg/Pikachu-Project/assets/123485982/870dc2b8-8f12-4e08-a48d-e14be03c4f07)
+![download (2)](https://github.com/kkengg/Pikachu-Project/assets/123485982/d2363451-c323-4107-baaf-78c0569e5543)
+![download (1)](https://github.com/kkengg/Pikachu-Project/assets/123485982/e6ad03cf-596a-484a-bcef-71f3880a6b88)
+![download (4)](https://github.com/kkengg/Pikachu-Project/assets/123485982/5fd50501-128b-46d4-886d-22d6757a3a70)
 
 จากราคาจากเชื้อเพลิงหลักของการผลิตไฟฟ้า ราคาแก๊สธรรมชาติมีราคาที่สูงขึ้นซึ่งสวนทางกับปริมาณการผลิตไฟฟ้าที่มีแนวโน้มที่ลดลงหลังจากหลายปีที่ผ่านมา ดังนั้นการผลิตไฟฟ้าจากจากแก๊สธรรมชาติอาจจะเป็นคัวเลิกที่ไม่เหมาะสมต่อการผลิตไฟฟ้าในปัจจุบัน เนื่องจากมีหลายส่วนที่มีแนวโน้มสูงขึ้น ดังนั้น การไฟฟ้าฝ่ายผลิตจึงมีการวางแผนเพิ่มการผลิตไฟฟ้าหมุนเวียบขึ้นมาทดแทน
 
-![ดาวน์โหลด (2)](https://github.com/kkengg/Pikachu-Project/assets/123485982/c7927573-2d6c-47b8-ae23-9fa01f626eac)
+![download](https://github.com/kkengg/Pikachu-Project/assets/123485982/978ef157-ca55-474a-80e4-dabfbf02207c)
 
 Ref:แผนพัฒนากำลังผลิตไฟฟ้าของประเทศไทย พ.ศ. 2561 - 2580 (PDP2018)
 
